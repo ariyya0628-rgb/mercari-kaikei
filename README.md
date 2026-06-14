@@ -28,6 +28,8 @@ python src/main.py
 - 全額ポイント払いが混ざる可能性のあるメルカード明細は、集計から除外して未判定シートへ分離
 - 不足資料チェックシートを作成
 
-## 詳しい資料の入れ方
+## 詳しい手順
 
-[docs/input_guide.md](docs/input_guide.md) を見てください。
+[docs/operation_manual.md](docs/operation_manual.md) に、目的、準備、資料の入れ方、実行方法、Excelの見方、トラブル対応をまとめています。
+
+資料の置き場所だけ確認したい場合は、[docs/input_guide.md](docs/input_guide.md) を見てください。
