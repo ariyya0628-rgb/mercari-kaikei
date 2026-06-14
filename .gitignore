@@ -1,0 +1,30 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local accounting inputs and generated outputs
+input/**
+!input/**/
+!input/**/.gitkeep
+output/**
+!output/**/
+!output/**/.gitkeep
+
+# Spreadsheet/report artifacts that may contain private data
+*.xlsx
+*.xls
+*.csv
+*.tsv
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
